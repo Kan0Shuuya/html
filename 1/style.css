@@ -1,0 +1,32 @@
+.box{
+    width: 300px;
+    height: 300px;
+    border: solid black;
+    position: absolute;
+}
+#limeCube1{
+    left: 0px;
+}
+#limeCube2{
+    left: 200px;
+}
+#limeCube3{
+    top:200px;
+}
+
+#limeCube4{
+    top:200px;
+    left:200px;
+}
+
+#limeCube5{
+    top:100px;
+    left:100px;
+}
+
+.cube{
+    background-color:greenyellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
